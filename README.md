@@ -30,5 +30,8 @@ o último indica o tipo: `0` = slides da aula, `1` em diante = material de apoio
 
 ## Pré-requisitos
 
-- [Python 3](https://www.python.org/downloads/) instalado
-- Um editor de código (ex.: VS Code)
+Para os exercícios em Python, use **uma** das opções:
+
+- **Google Colab** (não precisa instalar nada): [https://colab.research.google.com](https://colab.research.google.com)
+  — crie um *Novo notebook*, cole o código em uma célula e aperte `Shift + Enter`.
+- **Python no computador:** [Python 3](https://www.python.org/downloads/) instalado e um editor de código (ex.: VS Code).
