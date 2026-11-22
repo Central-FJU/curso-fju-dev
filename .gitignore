@@ -1,0 +1,29 @@
+# Vídeos (gravações ficam fora do Git)
+*.mp4
+*.mov
+*.mkv
+*.avi
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# C
+*.o
+*.exe
+*.out
+*.s
+
+# Arquivos gerados pelos exercícios
+index.html
+
+# Segredos e configurações locais
+.env
+
+# Sistema / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
