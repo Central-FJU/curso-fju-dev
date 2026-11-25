@@ -11,6 +11,7 @@ Repositório do curso **FJU Dev**, com o material das aulas: slides, material de
 |---|------|---------|
 | 01 | [Hardware e Software](aula-01-hardware-e-software/) | CPU, RAM, disco, binário, ASCII, sistema operacional, portas lógicas |
 | 02 | [Redes de Computadores e Internet](aula-02-redes-e-internet/) | IP, cliente/servidor, HTTP, DNS, URL, HTML/CSS/JS |
+| 03 | [Pensamento Computacional e Linguagens](aula-03-pensamento-computacional-e-linguagens/) | Algoritmos, variáveis, condicionais (if/else), laços, primeiro programa em Python |
 
 ## Organização de cada aula
 
@@ -27,6 +28,10 @@ aula-XX-nome/
 
 **Numeração dos arquivos:** os dois primeiros dígitos são a aula (`01X` = aula 1, `02X` = aula 2);
 o último indica o tipo: `0` = slides da aula, `1` em diante = material de apoio.
+
+## Links úteis
+
+Vídeos recomendados para acompanhar o curso: [links-uteis.md](links-uteis.md)
 
 ## Pré-requisitos
 
